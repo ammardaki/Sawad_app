@@ -1,7 +1,6 @@
 # akhawa
 
-A new Flutter project.
-
+An application that displays an interface with validation UI UX
 ## Getting Started
 
 This project is a starting point for a Flutter application.
